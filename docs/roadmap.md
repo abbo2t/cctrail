@@ -31,3 +31,4 @@ Drafts, first thoughts only, not agreed for implementation:
 - [Projects in the interactive view](plans/20261017-tui-projects.md): merge, rename and group
   projects without editing the config.
 - [OpenCode](plans/20261017-opencode.md) as another harness.
+- [GitHub Copilot in VS Code](plans/20261113-copilot.md) as another harness.
