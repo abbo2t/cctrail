@@ -1,0 +1,4 @@
+{"v":1,"ts":1767607205000,"dur":0,"sid":"vsc-main-1-sub-1","type":"session_start","name":"session_start","spanId":"c0","status":"ok","attrs":{"copilotVersion":"0.74.0","vscodeVersion":"1.146.0","parentSessionId":"vsc-main-1","label":"Explore"}}
+{"ts":1767607205000,"dur":14000,"sid":"vsc-main-1-sub-1","type":"turn_start","name":"turn_start","spanId":"c1","status":"ok","attrs":{"turnId":"ct1"}}
+{"ts":1767607206000,"dur":10000,"sid":"vsc-main-1-sub-1","type":"llm_request","name":"chat","spanId":"c2","parentSpanId":"c1","status":"ok","attrs":{"model":"claude-haiku-4.5","debugName":"runSubagent","inputTokens":500,"outputTokens":40,"cachedTokens":0,"ttft":300,"responseId":"cr1","userRequest":"find the parser","inputMessages":"[]","maxTokens":16000,"requestOptions":"{}","requestShape":"{}","copilotUsageNanoAiu":100000000}}
+{"ts":1767607219000,"dur":0,"sid":"vsc-main-1-sub-1","type":"turn_end","name":"turn_end","spanId":"c3","status":"ok","attrs":{"turnId":"ct1"}}
